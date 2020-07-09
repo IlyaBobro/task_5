@@ -1,0 +1,6 @@
+C:\Users\ognez\Desktop\task_5\bin\Debug\task_5.exe.config
+C:\Users\ognez\Desktop\task_5\bin\Debug\task_5.exe
+C:\Users\ognez\Desktop\task_5\bin\Debug\task_5.pdb
+C:\Users\ognez\Desktop\task_5\obj\Debug\task_5.csprojAssemblyReference.cache
+C:\Users\ognez\Desktop\task_5\obj\Debug\task_5.exe
+C:\Users\ognez\Desktop\task_5\obj\Debug\task_5.pdb
